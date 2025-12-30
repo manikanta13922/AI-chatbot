@@ -40,7 +40,7 @@ A full-stack AI chatbot inspired by ChatGPT, built using **React and FastAPI**, 
 
 ```
 
-all-rounder-ai-chatbot/
+Ai-chatbot/
 ├── frontend/
 │   └── src/
 │       └── App.jsx
@@ -48,9 +48,11 @@ all-rounder-ai-chatbot/
 │   ├── main.py
 │   ├── ai.py
 │   └── requirements.txt
+    └──.env
+     
 
 ````
-
+Get your own api key here : https://aistudio.google.com/app/apikey
 ---
 
 ## ▶️ Run Locally
@@ -71,6 +73,7 @@ cd frontend
 npm install
 npm run dev
 ```
+
 
 ---
 
